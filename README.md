@@ -1,0 +1,2 @@
+# simple_multistage_dockerfile_JAVA
+simple_multistage_dockerfile_java hello world application
